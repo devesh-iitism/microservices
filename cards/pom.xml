@@ -109,7 +109,7 @@
                 <version>3.4.6</version>
                 <configuration>
                     <to>
-                        <image>deveshiitism/${project.artifactId}:s4</image>
+                        <image>deveshiitism/${project.artifactId}:s6</image>
                     </to>
                 </configuration>
             </plugin>
